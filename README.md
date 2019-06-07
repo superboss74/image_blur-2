@@ -1,4 +1,6 @@
-# Image Blur #2: Perform an Image Transformation
+# Image Blur #2
+
+## Perform an Image Transformation
 
 In this assignment we will perform a transformation on the image data.
 
@@ -9,3 +11,7 @@ The only things you'll want your image to reflect are the values of 0's and 1's.
 ![image_blur_2_examples.png](/images/image_blur_2_examples.png)
 
 This problem is a bit tricky, but if you have a solid foundation on how to manipulate arrays and have completed the challenge assignments above, you have the skills you need to solve it.
+
+## The solution
+
+My version can be found [here](image_blur_2.rb)
