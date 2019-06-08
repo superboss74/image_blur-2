@@ -1,4 +1,4 @@
-# This class would be use to manipulate an image
+# This class would be used to manipulate an image
 class Image
   def initialize(array)
     @array = array
